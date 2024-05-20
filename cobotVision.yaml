@@ -110,4 +110,4 @@ dependencies:
       - torchvision==0.17.1
       - tqdm==4.66.2
       - transformers==4.40.0.dev0
-prefix: C:\Users\user\anaconda3\envs\da_sa
+prefix: C:\Users\user\anaconda3\envs\cobotVision
